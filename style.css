@@ -1,5 +1,27 @@
-header { 
-    <img src="download(1).jpg">
-    background-color:black
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color:  #1358c8;
     color: white;
+    font-size:25px;
+    displey:flex;
+    justify-content:space-between;
+}
+.cabecalho-lista{
+    displey:flex;
+    justify-content:space-between;
+    flex-wpar:wrap;
+}
+.cabecalho-lita-item{
+    displey: inlaine;
+    justify-content: space-between;
+    padding: 20px;
+}
+.cabecalho{
+    background-color: rgb(25, 140, 155)
+    color:  black;
+    display; flex;
+    padd
 }
